@@ -14,6 +14,7 @@
 </div>
 <p align="center">
   Made with ❤️ by <a href="https://www.facebook.com/KM39453">YayanXD_</a>
+  Open By <a href="https://www.youtube.com/channel/UCut4oOXQqyk4xQTuptRfe6w">SINCAN</a>
 </p>
 <p align="center">
  <img src="https://github.com/Yayan-XD/croot/blob/main/lib/z.jpg" width="640" title="Menu" alt="Menu">
